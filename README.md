@@ -4,7 +4,7 @@
 - 👋 I’m Amandeep Kaur
 - 👀 I’m interested in Genomics, Bioinformatics & Computational Biology
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Bioinformatic Projects
 - 📫 Reach out to me here- 662amandeep@gmail.com
 
 <!---
