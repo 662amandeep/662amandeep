@@ -1,10 +1,10 @@
 ## HELLO WORLD!
 
 
-- 👋 I’m Amandeep Kaur
-- 👀 I’m interested in Genomics, Bioinformatics & Computational Biology
-- 🌱 I’m currently learning Programming languages
-- 💞️ I’m looking to collaborate on Bioinformatic Projects
+- 👋 Hi, I’m Amandeep Kaur
+- 👀 Interested in Genomics, Bioinformatics & Computational Biology
+- 🌱 Currently working on Statistical Genomics Methods
+- 💞️ Happy to collaborate & contribute to Genomic & Bioinformatic Projects
 - 📫 Reach out to me here- 662amandeep@gmail.com
 
 <!---
